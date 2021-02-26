@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>428847441499-fsluo5qqjv0v3i9rbl4vu8bpnpnbgf2b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.428847441499-fsluo5qqjv0v3i9rbl4vu8bpnpnbgf2b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAjxqfXbzJ1zFO-j2xkmesiEqy_ICBLzvs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>428847441499</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rana.be</string>
+	<key>PROJECT_ID</key>
+	<string>bemymate-37aa0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bemymate-37aa0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:428847441499:ios:694126e0105b48eaf2417e</string>
+	<key>DATABASE_URL</key>
+	<string>https://bemymate-37aa0-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

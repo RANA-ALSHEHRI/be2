@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428847441499",
+    "project_id": "bemymate-37aa0",
+    "storage_bucket": "bemymate-37aa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428847441499:android:b145106d3c3973c6f2417e",
+        "android_client_info": {
+          "package_name": "com.rana.be"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428847441499-uhuf1blq9stuo9l7uh3836cq0f2e4kof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUoCOTz-y1vQ1ixdtbHRtrf7CdtRtqRik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428847441499-uhuf1blq9stuo9l7uh3836cq0f2e4kof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
